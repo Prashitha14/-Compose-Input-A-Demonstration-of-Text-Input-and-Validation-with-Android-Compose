@@ -14,3 +14,6 @@
 ### Prerequisites
 - Android Studio (version 2022.1 or later)
 - JDK 11 or higher
+
+Team Leader: Prashitha.M.S
+Team members: Logendaran.K.S, Prawin.R.K, Parthasarathy.S
