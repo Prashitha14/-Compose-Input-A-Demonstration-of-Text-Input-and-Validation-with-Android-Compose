@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.composeinput.app-mergeDebugResources-39:/values-es-rUS/values-es-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prash\\.gradle\\caches\\8.9\\transforms\\4d3768aaa7dd6fcfe52ae124bc8dd638\\transformed\\ui-1.2.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,204,286,384,487,576,655,752,844,931,995,1059,1146,1236,1313,1383",
+                        "endColumns": "98,81,97,102,88,78,96,91,86,63,63,86,89,76,69,122",
+                        "endOffsets": "199,281,379,482,571,650,747,839,926,990,1054,1141,1231,1308,1378,1501"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,204,286,384,487,576,655,752,844,931,995,1059,1146,1236,1414,1484",
+                        "endColumns": "98,81,97,102,88,78,96,91,86,63,63,86,89,76,69,122",
+                        "endOffsets": "199,281,379,482,571,650,747,839,926,990,1054,1141,1231,1308,1479,1602"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\prash\\.gradle\\caches\\8.9\\transforms\\3af75dbfdb7f6040bced564ef8db5b3a\\transformed\\core-1.7.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1313",
+                        "endColumns": "100",
+                        "endOffsets": "1409"
+                    }
+                }
+            ]
+        }
+    ]
+}

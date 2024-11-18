@@ -1,0 +1,13 @@
+#Mon Nov 18 20:16:00 IST 2024
+base.0=D\:\\PRASHITHA\\Github\\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\\Compose Input\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\PRASHITHA\\Github\\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\\Compose Input\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\PRASHITHA\\Github\\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\\Compose Input\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=D\:\\PRASHITHA\\Github\\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\\Compose Input\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=5/classes.dex
+path.3=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

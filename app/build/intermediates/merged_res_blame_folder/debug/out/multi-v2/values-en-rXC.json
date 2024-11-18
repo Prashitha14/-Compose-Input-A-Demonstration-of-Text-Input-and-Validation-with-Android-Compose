@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.composeinput.app-mergeDebugResources-39:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prash\\.gradle\\caches\\8.9\\transforms\\3af75dbfdb7f6040bced564ef8db5b3a\\transformed\\core-1.7.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "2695",
+                        "endColumns": "203",
+                        "endOffsets": "2894"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\prash\\.gradle\\caches\\8.9\\transforms\\4d3768aaa7dd6fcfe52ae124bc8dd638\\transformed\\ui-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,296,481,678,880,1067,1252,1456,1644,1831,1996,2163,2344,2529,2695,2862",
+                        "endColumns": "190,184,196,201,186,184,203,187,186,164,166,180,184,165,166,237",
+                        "endOffsets": "291,476,673,875,1062,1247,1451,1639,1826,1991,2158,2339,2524,2690,2857,3095"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,296,481,678,880,1067,1252,1456,1644,1831,1996,2163,2344,2529,2899,3066",
+                        "endColumns": "190,184,196,201,186,184,203,187,186,164,166,180,184,165,166,237",
+                        "endOffsets": "291,476,673,875,1062,1247,1451,1639,1826,1991,2158,2339,2524,2690,3061,3299"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.composeinput.app-mergeDebugResources-39:/values-pl/values-pl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prash\\.gradle\\caches\\8.9\\transforms\\3af75dbfdb7f6040bced564ef8db5b3a\\transformed\\core-1.7.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1320",
+                        "endColumns": "100",
+                        "endOffsets": "1416"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\prash\\.gradle\\caches\\8.9\\transforms\\4d3768aaa7dd6fcfe52ae124bc8dd638\\transformed\\ui-1.2.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,285,394,499,576,653,764,854,937,1008,1078,1161,1248,1320,1388",
+                        "endColumns": "94,84,108,104,76,76,110,89,82,70,69,82,86,71,67,119",
+                        "endOffsets": "195,280,389,494,571,648,759,849,932,1003,1073,1156,1243,1315,1383,1503"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,285,394,499,576,653,764,854,937,1008,1078,1161,1248,1421,1489",
+                        "endColumns": "94,84,108,104,76,76,110,89,82,70,69,82,86,71,67,119",
+                        "endOffsets": "195,280,389,494,571,648,759,849,932,1003,1073,1156,1243,1315,1484,1604"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.composeinput"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:5:5-40:19
+12        android:allowBackup="true"
+12-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\prash\.gradle\caches\8.9\transforms\3af75dbfdb7f6040bced564ef8db5b3a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:10:9-41
+20        android:supportsRtl="true"
+20-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Composeinput" >
+22-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:12:9-50
+23        <activity
+23-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:14:9-18:57
+24            android:name="com.example.composeinput.RegisterActivity"
+24-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:15:13-45
+25            android:exported="false"
+25-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:16:13-37
+26            android:label="@string/title_activity_register"
+26-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:17:13-60
+27            android:theme="@style/Theme.Composeinput" />
+27-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:18:13-54
+28        <activity
+28-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:19:9-23:57
+29            android:name="com.example.composeinput.MainActivity"
+29-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:20:13-41
+30            android:exported="false"
+30-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:21:13-37
+31            android:label="MainActivity"
+31-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:22:13-41
+32            android:theme="@style/Theme.Composeinput" />
+32-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:23:13-54
+33        <activity
+33-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:24:9-28:57
+34            android:name="com.example.composeinput.AdminActivity"
+34-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:25:13-42
+35            android:exported="false"
+35-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:26:13-37
+36            android:label="@string/title_activity_admin"
+36-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:27:13-57
+37            android:theme="@style/Theme.Composeinput" />
+37-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:28:13-54
+38        <activity
+38-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:29:9-39:20
+39            android:name="com.example.composeinput.LoginActivity"
+39-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:30:13-42
+40            android:exported="true"
+40-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:31:13-36
+41            android:label="@string/app_name"
+41-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:32:13-45
+42            android:theme="@style/Theme.Composeinput" >
+42-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:33:13-54
+43            <intent-filter>
+43-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:34:13-38:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:35:17-69
+44-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:35:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:37:17-77
+46-->D:\PRASHITHA\Github\Compose Input A Demonstration of Text Input and Validation with Android Compose-20241117T194501Z-001\Compose Input\app\src\main\AndroidManifest.xml:37:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <service
+50-->[androidx.room:room-runtime:2.5.0] C:\Users\prash\.gradle\caches\8.9\transforms\b6212b866d7112c65bbac0979797f8d0\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+51            android:name="androidx.room.MultiInstanceInvalidationService"
+51-->[androidx.room:room-runtime:2.5.0] C:\Users\prash\.gradle\caches\8.9\transforms\b6212b866d7112c65bbac0979797f8d0\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+52            android:directBootAware="true"
+52-->[androidx.room:room-runtime:2.5.0] C:\Users\prash\.gradle\caches\8.9\transforms\b6212b866d7112c65bbac0979797f8d0\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+53            android:exported="false" />
+53-->[androidx.room:room-runtime:2.5.0] C:\Users\prash\.gradle\caches\8.9\transforms\b6212b866d7112c65bbac0979797f8d0\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+54
+55        <activity
+55-->[androidx.compose.ui:ui-tooling:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\f8aee4c15812bcf1b1c2771b0c6eea2f\transformed\ui-tooling-1.2.0\AndroidManifest.xml:24:9-26:39
+56            android:name="androidx.compose.ui.tooling.PreviewActivity"
+56-->[androidx.compose.ui:ui-tooling:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\f8aee4c15812bcf1b1c2771b0c6eea2f\transformed\ui-tooling-1.2.0\AndroidManifest.xml:25:13-71
+57            android:exported="true" />
+57-->[androidx.compose.ui:ui-tooling:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\f8aee4c15812bcf1b1c2771b0c6eea2f\transformed\ui-tooling-1.2.0\AndroidManifest.xml:26:13-36
+58        <activity
+58-->[androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\add1e65ef0f100f6749a804cb486dfe1\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:24:9-26:39
+59            android:name="androidx.activity.ComponentActivity"
+59-->[androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\add1e65ef0f100f6749a804cb486dfe1\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:25:13-63
+60            android:exported="true" />
+60-->[androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\add1e65ef0f100f6749a804cb486dfe1\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:26:13-36
+61
+62        <provider
+62-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:25:9-33:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:26:13-67
+64            android:authorities="com.example.composeinput.androidx-startup"
+64-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:27:13-68
+65            android:exported="false" >
+65-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:28:13-37
+66            <meta-data
+66-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+67                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+67-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+68                android:value="androidx.startup" />
+68-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+69        </provider>
+70
+71        <receiver
+71-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+72            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+72-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+73            android:directBootAware="false"
+73-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+74            android:enabled="true"
+74-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+75            android:exported="true"
+75-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+76            android:permission="android.permission.DUMP" >
+76-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+77            <intent-filter>
+77-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+78                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+78-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+78-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+79            </intent-filter>
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+81                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+81-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\prash\.gradle\caches\8.9\transforms\13b0a63f5fe9b8960d3f01c8a7700678\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:25-82
+82            </intent-filter>
+83        </receiver>
+84    </application>
+85
+86</manifest>

@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable background
+drawable bg
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable survey_login
+drawable survey_signup
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string title_activity_admin
+string title_activity_login
+string title_activity_register
+style Theme.Composeinput
+xml backup_rules
+xml data_extraction_rules
