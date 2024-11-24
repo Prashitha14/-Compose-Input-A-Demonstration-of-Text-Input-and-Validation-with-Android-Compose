@@ -112,7 +112,7 @@ fun LoginScreen(context: Context, databaseHelper: UserDatabaseHelper) {
                         )
                     }
                     else {
-                        error =  "Successfully log in"
+                        error =  "Invalid Input"
                     }
 
                 } else {
